@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **WEB Development Full-Stack**
+<p align="center">🌱 I’m currently learning **WEB Development Full-Stack** </p>
 
 
 
