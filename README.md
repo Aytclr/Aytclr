@@ -21,12 +21,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aytclr&show_icons=true&theme=dark&locale=en&layout=compact" alt="aytclr" /></p>
 
-<br><br><br><br><br><br><br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aytclr&show_icons=true&theme=dark&locale=en" alt="aytclr" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aytclr&theme=dark" alt="aytclr" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
