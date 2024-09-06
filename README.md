@@ -40,7 +40,7 @@
                   
   <br>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aytacalir/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="aytclr" height="80" width="80"  /></a>
 
